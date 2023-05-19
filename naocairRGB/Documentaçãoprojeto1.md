@@ -12,8 +12,8 @@ O código consiste em algumas ações realizadas pelo Sparki:
 6. O código inclui um pequeno atraso de 0.1 segundos entre cada iteração do loop.
 
 
-
-
-
 Link do vídeo yotube: 
 [vídeo do robô executando](https://youtu.be/We9_DYo-2kw)
+
+ Fluxograma 
+  ![projeto1](naocairRGB/fluxograma_projeto_1.jpeg)
