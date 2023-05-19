@@ -17,4 +17,4 @@ Link do vídeo yotube:
 
  Fluxograma 
  
- ![projeto1](naocairRGB/fluxograma_projeto_1.png)
+ ![projeto1](img/fluxograma_projeto_1.png)
