@@ -1,5 +1,7 @@
 # Fundamentos_Robotica_Grupo_Sparki
 
+![sparki](img/robosparki.avif)
+
 Integrantes: 
 
 - Sofia Victória Bispo da Silva - 202063542
