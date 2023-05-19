@@ -16,4 +16,5 @@ Link do vídeo yotube:
 [vídeo do robô executando](https://youtu.be/We9_DYo-2kw)
 
  Fluxograma 
-  ![projeto1](naocairRGB/fluxograma_projeto_1.jpeg)
+ 
+ ![projeto1](naocairRGB/fluxograma_projeto_1.png)
