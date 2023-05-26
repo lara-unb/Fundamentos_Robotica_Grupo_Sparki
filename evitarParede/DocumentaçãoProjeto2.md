@@ -64,3 +64,5 @@ O fluxo retorna ao início do loop principal.
 5. Repetição do Loop Principal:
 
 O programa continuará a repetir o loop principal indefinidamente, executando as funcionalidades descritas nos passos 3 e 4.
+  
+![Fluxograma](evitarParede/imagem-projeto2)
