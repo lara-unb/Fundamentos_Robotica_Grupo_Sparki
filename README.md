@@ -15,3 +15,5 @@ O grupo escolheu trabalhar com Sparki,um robô educacional programável.
 PROJETO 1 - Chamamos o código de "Não Cair RGB"
 
 PROJETO 2 - Código Evitar Parede 
+
+PROJETO 3 - Seguir a Luz 
