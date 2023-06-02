@@ -22,4 +22,4 @@ No loop contínuo do programa, o Sparki realiza as seguintes ações:
   
 Essa documentação descreve o fluxograma do programa Sparki passo a passo. 
   
-![Fluxograma](seguirLuz/imagem-projeto3/fluxogramaprojeto3.jpeg)
+![Fluxograma](imagem-projeto3/fluxogramaprojeto3.jpeg)
